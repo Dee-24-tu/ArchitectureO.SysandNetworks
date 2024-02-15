@@ -5,7 +5,7 @@ Practise usage of shell on Ubuntu Virtual machine.
 ## List Commands 
 
 | __Input__          | __Output__          |
-| :---               |     :---:           |
+| :---               |      ---:           |
 | What OS used?      | Ubuntu              |
 
 
