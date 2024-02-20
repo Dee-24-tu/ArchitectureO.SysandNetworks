@@ -117,7 +117,7 @@ List all the files and folders in the root directory showing the file permission
 
 | Command            | Output                                    | 
 | :---               |      ---:                                 |
-| ls -l              | ![Command Output](assets/ls-l_command.png)|
+| ls -l              | ![Command Output](WeekFour/assets/ls-l_command.png)|
 
 
 Store the results the “List all the files and folders in the root directory showing the file permissions” and store this in the results.txt folder created earlier.
@@ -147,7 +147,7 @@ In the terminal window display the content of the results.txt file
 
 | Command                        | Output                                   | 
 | :---                           |      ---:                                |
-| cat results.txt                | ![Cat Command Output](assets/cat_command.png) |
+| cat results.txt                | ![Cat Command Output](WeekFour/assets/cat_command.png) |
 
 
 
@@ -155,7 +155,7 @@ What user is currently logged into the terminal window:
 
 | Command                       | Output                                    | 
 | :---                          |      ---:                                 |
-| w                             | ![Logged in user Command](assets/w_command.png) |
+| w                             | ![Logged in user Command](WeekFour/assets/w_command.png) |
 
 
 Remove the file named classlist.txt
@@ -171,7 +171,7 @@ Move the file named results.txt to the Lab4 folder.
 | Command                       | Output                                    | 
 | :---                          |      ---:                                 |
 | ls                            |Desktop Downloads Pictures Snap Videos Documents Music Public Templates|
-| ls -l                         | ![Command Output](assets/ls-l_command.png)|
+| ls -l                         | ![Command Output](WeekFour/assets/ls-l_command.png)|
 | ls -l> results.txt            |                                           |
 | ls                            |Desktop Downloads Pictures Snap Videos Documents Music Public results.txt Templates|
 | mv results.txt Documents/Lab  |                                           |
